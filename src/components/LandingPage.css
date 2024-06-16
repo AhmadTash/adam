@@ -1,0 +1,65 @@
+.landingFirstLeft h2{
+    font-size: 40px !important;
+}
+.landingFirstLeft p{
+    font-size: 28px !important;
+}
+.landingFirstRight{
+    margin-right: -50px;
+}
+
+.highlight{
+    color: var(--mainColor);
+}
+
+.landingpageFirstSecContainer{
+    margin-top: 91px;
+}
+
+.landingpageSecondSecContainer{
+    background: linear-gradient(to bottom right, #202020, #0B0B0B);
+    padding: 38px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.landingpageSecondSecContainer .card{
+    background-color: #101010;
+    border-radius: 28px;
+    padding: 28px;
+    width: 426.67px;
+}
+
+.borderActive{
+    border: 1px solid var(--mainColor);
+}
+
+.landingpageSecondSecContainer .card-body{
+    padding: 0;
+   padding-top: 10px;
+}
+
+.landingpageSecondSecContainer .card img{
+    border-radius: 18px;
+}
+
+
+
+.landingpageSecondSecContainer .card .card-title{
+    color: var(--mainColor);
+    font-size: 26px;
+}
+
+.landingpageSecondSecContainer .card .card-text{
+    font-size: 20px;
+}
+
+
+.getStartedBtn{
+    background-color: var(--mainColor);
+    padding: 15px 28px !important;
+    color: black;
+    width: fit-content;
+    border-radius: 100px;
+    font-size: 18px;
+}
